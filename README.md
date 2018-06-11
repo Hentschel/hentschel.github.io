@@ -1,1 +1,1 @@
-http://./org.openhab.binding.isy-2.3.0-SNAPSHOT.jar
+[org.openhab.binding.isy-2.3.0-SNAPSHOT.jar](org.openhab.binding.isy-2.3.0-SNAPSHOT.jar)
